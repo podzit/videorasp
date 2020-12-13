@@ -1,4 +1,4 @@
-# videorasp
+# Videorasp
 
 scripts for start and stop video monitoring with raspberry pi and motion.
 
